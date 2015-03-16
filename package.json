@@ -1,0 +1,18 @@
+{
+  "name": "Debug",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "~3.3.4",
+    "express": "~4.12.2",
+    "connect-owin": "~0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
